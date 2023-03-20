@@ -1,0 +1,15 @@
+C:\Calculator console aplication\Program Kalkulator Sederhana\Program Kalkulator Sederhana\bin\Debug\net6.0\Program Kalkulator Sederhana.exe
+C:\Calculator console aplication\Program Kalkulator Sederhana\Program Kalkulator Sederhana\bin\Debug\net6.0\Program Kalkulator Sederhana.deps.json
+C:\Calculator console aplication\Program Kalkulator Sederhana\Program Kalkulator Sederhana\bin\Debug\net6.0\Program Kalkulator Sederhana.runtimeconfig.json
+C:\Calculator console aplication\Program Kalkulator Sederhana\Program Kalkulator Sederhana\bin\Debug\net6.0\Program Kalkulator Sederhana.dll
+C:\Calculator console aplication\Program Kalkulator Sederhana\Program Kalkulator Sederhana\bin\Debug\net6.0\Program Kalkulator Sederhana.pdb
+C:\Calculator console aplication\Program Kalkulator Sederhana\Program Kalkulator Sederhana\obj\Debug\net6.0\Program Kalkulator Sederhana.csproj.AssemblyReference.cache
+C:\Calculator console aplication\Program Kalkulator Sederhana\Program Kalkulator Sederhana\obj\Debug\net6.0\Program Kalkulator Sederhana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Calculator console aplication\Program Kalkulator Sederhana\Program Kalkulator Sederhana\obj\Debug\net6.0\Program Kalkulator Sederhana.AssemblyInfoInputs.cache
+C:\Calculator console aplication\Program Kalkulator Sederhana\Program Kalkulator Sederhana\obj\Debug\net6.0\Program Kalkulator Sederhana.AssemblyInfo.cs
+C:\Calculator console aplication\Program Kalkulator Sederhana\Program Kalkulator Sederhana\obj\Debug\net6.0\Program Kalkulator Sederhana.csproj.CoreCompileInputs.cache
+C:\Calculator console aplication\Program Kalkulator Sederhana\Program Kalkulator Sederhana\obj\Debug\net6.0\Program Kalkulator Sederhana.dll
+C:\Calculator console aplication\Program Kalkulator Sederhana\Program Kalkulator Sederhana\obj\Debug\net6.0\refint\Program Kalkulator Sederhana.dll
+C:\Calculator console aplication\Program Kalkulator Sederhana\Program Kalkulator Sederhana\obj\Debug\net6.0\Program Kalkulator Sederhana.pdb
+C:\Calculator console aplication\Program Kalkulator Sederhana\Program Kalkulator Sederhana\obj\Debug\net6.0\Program Kalkulator Sederhana.genruntimeconfig.cache
+C:\Calculator console aplication\Program Kalkulator Sederhana\Program Kalkulator Sederhana\obj\Debug\net6.0\ref\Program Kalkulator Sederhana.dll
